@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:'/docs/',
   title: "My Codepress site",
   description: "a vitepress for mycodes",
   themeConfig: {
