@@ -1,8 +1,7 @@
-.vitepress
 node_modules
 .vscode
-/.vitepress/cache
-/.vitepress/dist
+/.vitepress/cache/
+/.vitepress/dist/
 /coverage
 /src/client/shared.ts
 /src/node/shared.ts
@@ -17,5 +16,3 @@ cache
 temp
 examples-temp
 pnpm-global
-TODOs.md
-/index.md
