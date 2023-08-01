@@ -1,6 +1,7 @@
 .vitepress
 node_modules
 .vscode
+.github
 /coverage
 /src/client/shared.ts
 /src/node/shared.ts
